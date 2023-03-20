@@ -3,7 +3,8 @@
 </template>
 
 <script>
-import { Button } from "windmill-ui-001";
+import { Button } from "@node_modules/windmill-ui-01";
+import 'windmill-ui-01/dist/lib/windmill-ui-01.css';
 
 
 export default {
